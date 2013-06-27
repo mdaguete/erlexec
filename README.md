@@ -1,1 +1,1 @@
-# Please refeer to https://github.com/saleyn/erlexec by @saleyn  the original author and with updated patches.
+# Please refer to https://github.com/saleyn/erlexec by @saleyn  the original author and with updated patches.
